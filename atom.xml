@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hubery0203.github.io</id>
     <title>Hubery</title>
-    <updated>2020-11-08T07:55:01.618Z</updated>
+    <updated>2020-11-09T03:16:10.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hubery0203.github.io"/>
     <link rel="self" href="https://hubery0203.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://hubery0203.github.io/images/avatar.png</logo>
     <icon>https://hubery0203.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Hubery</rights>
+    <entry>
+        <title type="html"><![CDATA[不负遇见事无悔]]></title>
+        <id>https://hubery0203.github.io/post/ji-lu/</id>
+        <link href="https://hubery0203.github.io/post/ji-lu/">
+        </link>
+        <updated>2020-11-07T15:59:59.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[惟愿此生共相伴]]></title>
         <id>https://hubery0203.github.io/post/wei-yuan-ci-sheng-gong-xiang-ban/</id>
@@ -72,12 +79,5 @@
         <link href="https://hubery0203.github.io/post/ren-jian-you-wei-bu-ru-ni/">
         </link>
         <updated>2020-09-30T15:59:59.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[相思相见知何日]]></title>
-        <id>https://hubery0203.github.io/post/xiang-si-xiang-jian-zhi-he-ri-20200919-26/</id>
-        <link href="https://hubery0203.github.io/post/xiang-si-xiang-jian-zhi-he-ri-20200919-26/">
-        </link>
-        <updated>2020-09-26T15:59:59.000Z</updated>
     </entry>
 </feed>
