@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hubery0203.github.io</id>
     <title>Hubery</title>
-    <updated>2020-11-16T02:32:09.231Z</updated>
+    <updated>2020-11-19T05:31:55.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hubery0203.github.io"/>
     <link rel="self" href="https://hubery0203.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://hubery0203.github.io/images/avatar.png</logo>
     <icon>https://hubery0203.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Hubery</rights>
+    <entry>
+        <title type="html"><![CDATA[爱一个人，不要害怕结局]]></title>
+        <id>https://hubery0203.github.io/post/cao-gao-1/</id>
+        <link href="https://hubery0203.github.io/post/cao-gao-1/">
+        </link>
+        <updated>2020-11-16T15:59:59.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[静待美好的出现，晚安！]]></title>
         <id>https://hubery0203.github.io/post/cao-gao/</id>
@@ -72,12 +79,5 @@
         <link href="https://hubery0203.github.io/post/luo-hua-you-yi-sui-liu-shui/">
         </link>
         <updated>2020-10-10T15:59:59.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[没有红叶的香山]]></title>
-        <id>https://hubery0203.github.io/post/mei-you-hong-xie-de-xiang-shan/</id>
-        <link href="https://hubery0203.github.io/post/mei-you-hong-xie-de-xiang-shan/">
-        </link>
-        <updated>2020-10-07T15:59:59.000Z</updated>
     </entry>
 </feed>
